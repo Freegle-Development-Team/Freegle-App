@@ -10,7 +10,7 @@ import { getFirestore, collection, doc, setDoc, getDocs } from "firebase/firesto
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCiJj8Z7oOC6gUVT7Oz0v9oiWEEWoADsB8",
+  apiKey: "",
   authDomain: "freegle-server.firebaseapp.com",
   databaseURL:
     "https://freegle-server-default-rtdb.europe-west1.firebasedatabase.app",
